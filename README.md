@@ -1,5 +1,5 @@
 <h1>Hello World! I'm Federico Maiocchi</h1>
-<!-- <p>Cose cose</p> -->
+<p>Sono uno sviluppatore junior appassionato. Ho completato con successo un bootcamp full-time di 6 mesi, dedicando oltre 700 ore all'approfondimento delle competenze in tecnologie frontend e backend come HTML, CSS, JavaScript, Vue.js, MYSQL e Laravel. Durante questo percorso, ho sviluppato progetti sia in autonomia che in team, replicando note web app come Zalando, Discord, WhatsApp, Netflix e tantente altre</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,7 +9,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<ul style="list-style:none;">
+<ul>
    <li>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
    </li>
