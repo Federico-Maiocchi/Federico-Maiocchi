@@ -1,5 +1,5 @@
 <h1>Hello World! I'm Federico Maiocchi</h1>
-<p>Sono uno sviluppatore junior appassionato. Ho completato con successo un bootcamp full-time di 6 mesi, dedicando oltre 700 ore all'approfondimento delle competenze in tecnologie frontend e backend come HTML, CSS, JavaScript, Vue.js, MYSQL e Laravel. Durante questo percorso, ho sviluppato progetti sia in autonomia che in team, replicando note web app come Zalando, Discord, WhatsApp, Netflix e tantente altre</p>
+<p>Sono uno sviluppatore junior appassionato. Ho completato con successo un bootcamp full-time di 6 mesi, dedicando oltre 700 ore all'approfondimento delle competenze in tecnologie frontend e backend come HTML, CSS, JavaScript, Vue.js, MYSQL e Laravel. Durante questo percorso, ho sviluppato progetti sia in autonomia che in team, replicando note web app come Zalando, Discord, WhatsApp, Netflix e tante altre!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
